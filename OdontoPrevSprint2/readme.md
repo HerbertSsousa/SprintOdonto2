@@ -34,7 +34,7 @@ tornando a base de código mais limpa e eficiente, além de atualização no MER
 <h3>Passos para Rodar:</h3>
 <ol>
   <li>Clone o repositório do GitHub:
-    <pre><code>git clone https://github.com/HerbertSsousa/SprintOdonto1.git</code></pre>
+    <pre><code>git clone https://github.com/HerbertSsousa/SprintOdonto2</code></pre>
   </li>
   <li>Navegue até a pasta do projeto:
     <pre><code>cd nome-do-projeto</code></pre>
@@ -122,7 +122,7 @@ Abaixo estão os endpoints disponíveis para testar os controladores fornecidos,
 
 
 ## Link do Github
-https://github.com/HerbertSsousa/SprintOdonto1
+https://github.com/HerbertSsousa/SprintOdonto2
 
 
 ## Link do vídeo
